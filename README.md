@@ -1,4 +1,4 @@
-Automate ubuntu/bionic64
+Automate Docker with ubuntu/bionic64
 
 clone the repo.
 
