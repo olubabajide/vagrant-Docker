@@ -25,4 +25,6 @@ config.vm.define "docker" do |docker|
         SHELL
 end
 
+end
+
 
