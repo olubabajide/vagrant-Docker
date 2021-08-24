@@ -1,4 +1,4 @@
-Automate centos7
+Automate ubuntu/bionic64
 
 clone the repo.
 
